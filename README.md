@@ -33,10 +33,8 @@
 ---
 
 ## 📫 Conecta conmigo
-- GitHub: [github.com/MikePortnoy](https://github.com/MikePortnoy)
-- LinkedIn: [linkedin.com/in/tu-linkedin](https://linkedin.com/in/tu-linkedin)
-- Email: **tuemail@ejemplo.com**
-
+- GitHub: [github.com/MichelHdez](https://github.com/MichelHdez/MichelHdez) - PERFIL ANTERIOR
+- LinkedIn: [linkedin.com/in/tu-linkedin]([https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/michael-hern%C3%A1ndez-079885142/))
 ---
 
 ⭐ _Siempre abierto a colaborar en proyectos innovadores_
