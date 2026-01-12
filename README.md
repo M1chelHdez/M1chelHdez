@@ -59,19 +59,13 @@
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/michael-hern%C3%A1ndez-079885142/" target="_blank">
+  <a href="https://www.linkedin.com/in/michael-hern%C3%A1ndez-079885142/" target="_blank" style="margin-right:20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/MichelHdez">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <i>Perfil anterior</i>
 </p>
 
 ---
