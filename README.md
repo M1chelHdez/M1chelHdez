@@ -55,25 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=M1chelHdez&show_icons=true&theme=radical&hide_border=true"
-    alt="Estadísticas de GitHub"
-  />
-</p>
-
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=M1chelHdez&theme=radical&hide_border=true"
-    alt="Racha de contribuciones"
-  />
-</p>
-
-
----
 
 ## 📫 Conecta conmigo
 
@@ -81,10 +62,18 @@
   <a href="https://www.linkedin.com/in/michael-hern%C3%A1ndez-079885142/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/MichelHdez/MichelHdez"> - PERFIL ANTERIOR
+</p>
+
+<p align="center">
+  <a href="https://github.com/MichelHdez">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <i>Perfil anterior</i>
+</p>
+
 ---
 
 ⭐ _Siempre abierto a colaborar en proyectos innovadores_
