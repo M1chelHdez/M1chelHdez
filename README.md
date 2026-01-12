@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <i>Perfil anterior](https://github.com/MichelHdez/MichelHdez</i>
+  <i>Perfil anterior https://github.com/MichelHdez/MichelHdez</i>
 </p>
 
 ---
