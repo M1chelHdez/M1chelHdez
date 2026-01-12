@@ -58,12 +58,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikePortnoy&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MichelHdez&show_icons=true&theme=radical&hide_border=true"
+    alt="Estadísticas de GitHub"
+  />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikePortnoy&theme=radical" alt="Racha de contribuciones"/>
+  <img
+    src="https://streak-stats.demolab.com?user=MichelHdez&theme=radical&hide_border=true"
+    alt="Racha de contribuciones"
+  />
 </p>
+
 
 ---
 
